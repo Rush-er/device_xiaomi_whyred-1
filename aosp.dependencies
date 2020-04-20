@@ -1,0 +1,32 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "SakilMondal/android_kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/whyred",
+    "branch":      "10.x"
+  },
+  {
+    "remote":      "github",
+    "repository":  "SakilMondal/proprietary_vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi/whyred",
+    "branch":      "10.x"
+  },
+  {
+    "remote":      "github",
+    "repository":  "SakilMondal/vendor_MiuiCamera",
+    "target_path": "vendor/MiuiCamera",
+    "branch":      "10.x"
+  },
+  {
+    "remote":      "github",
+    "repository":  "SakilMondal/vendor_qcom_common",
+    "target_path": "vendor/qcom/common",
+    "branch":      "10.x"
+  },
+  {
+    "remote":      "github",
+    "repository":  "SakilMondal/vendor_dirac",
+    "target_path": "vendor/dirac",
+    "branch":      "10.x"
+  }  
+]
